@@ -1,0 +1,368 @@
+---
+# disclaimer page
+mandatory: true
+question: What you could use your NDIS funding for
+subquestion: |
+  # How this application works
+  
+  Read through each of the support categories to learn more. By answering YES or NO, your answers will create a customised document at the end which can help explain how you can use your funding. 
+  
+  **Please note:** not all support categories will be applicable to your circumstances and you can only use them if it enables you to meet your goals and you have funds allocated.
+  
+  The content provided is for information purposes only. No claim is made as to the accuracy of the content of the information.
+  
+  The user should always refer back to the NDIS or contact the Royal Society for the Blind for further information.
+  
+  No responsibility is taken for any information or services that appear on any linked websites.
+
+  To get started, press **Continue**.
+buttons:
+  - CONTINUE: continue
+under: |
+  **NOTE:** information is **current as at July 2020.**
+---
+# intro to NDIS page - summary of supports
+mandatory: true
+question: |
+  NDIS Funding Supports
+subquestion: |
+  There are **three** support purposes under the NDIS
+  
+  - Core
+  - Capital, and
+  - Capacity Building
+  
+  Each one is broken down into a number of support categories. The next few pages will go through each of them.
+  
+  **Please note:** not all support categories will be applicable to your circumstances and you can only use them if it enables you to meet your goals and you have funds allocated.
+buttons:
+  - CONTINUE: continue
+---
+mandatory: true
+question: |
+  Support Purpose 1: Core Supports
+subquestion: |
+  Supports that help you with completing activities in your day to day life.
+
+  **Support categories include:**
+  
+  - Assistance with daily living
+  - Transport
+  - Consumables
+  - Assistance with social and community participation
+buttons:
+  - Continue: continue
+---
+mandatory: true
+question: |
+  Core Support - Assistance with daily life
+subquestion: |
+  Funding to assist you in your daily personal activities and supports to help you live more independently.
+  
+  What you could use your funding for:
+  
+  - Assistance with daily activities (e.g. showering, personal hygiene and moving around the house)
+  - Assistance with household tasks (e.g. a cleaner or gardener)
+  - Preparation and delivery of meals
+  - Assistance to support short & medium term accommodation, and shared living arrangements
+  
+  Would you like more information on Assistance with daily life?
+field: core_daily_life
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Core Support - Transport
+subquestion: |
+  Funding to help you get around and access supports in the community.
+  
+  What you could use your funding for:
+  
+  - funds for a worker to accompany a participant for community access
+  - cost of the transport itself, including access to public transport, road tolls, parking fees and running costs of the vehicle
+  
+  Would you like more information on Transport?
+field: core_transport
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Core Support - Consumables
+subquestion: |
+  Funding for you to purchase everyday use items and can include funding for low cost low risk assistive technology and equipment to improve independence and/or mobility.
+
+  What you could use your funding for:
+  
+  -	Low cost low risk assistive technology (e.g. magnifiers and lamps, talking devices such as clocks and timers, finger guards, needle threaders, white cane replacement tips and balls)
+  -	Continence products (e.g. disposable pads, pants, catheters)
+  -	Home Enteral Nutrition products (e.g. feeding tube)
+
+  Would you like more information on Consumables?
+field: core_consumables
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Core Support - Assistance with social and community participation
+subquestion: |
+  Info goes here
+  
+  
+  
+  
+  
+  
+  
+  
+  Would you like more information on Assistance with social and community participation?
+field: core_social_participation
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Support Purpose 2: Capital Supports
+subquestion: |
+  Investment funding for higher-cost pieces of Assistive Technology, equipment, home or vehicle modifications, or for Specialist Disability Accommodation 
+  
+  **Support Categories include:**
+  
+  - Home modification
+  - Assistive Technology
+buttons:
+  - Continue: continue
+---
+mandatory: true
+question: |
+  Capital Support - Home modifications
+subquestion: |
+  
+  
+  
+  
+  Would you like more information on Home modifications?
+field: capital_home
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Capital Support - Assistive Technology
+subquestion: |
+  put info in here
+  
+  
+  
+  
+  Would you like more information on Assistive Technology?
+field: capital_AT
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Support Purpose 3: Capacity Building
+subquestion: |
+  Supports to help build your independence and skills to help you reach your long-term goals. 
+  
+  **Support Categories include:**
+  
+  - Coordination of supports
+  - Improved living arrangements
+  - Increased social and community participation
+  - Job Assistance
+  - Improved relationships
+  - Improved health and wellbeing
+  - Improved learning
+  - Improved life choices
+  - Improved daily living
+buttons:
+  - Continue: continue
+---
+mandatory: true
+question: |
+  Capacity Building - Coordination of supports
+subquestion: |
+  put info here
+  
+  
+  
+  
+  Would you like more information on Coordination of supports?
+field: capacity_coord_supports
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Capacity Building - Improved living arrangements
+subquestion: |
+  put info here
+  
+  
+  
+  
+  Would you like more information on Improved living arrangements?
+field: capacity_living_arrangements
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Capacity Building - Increase social and community participation
+subquestion: |
+  put info here
+  
+  
+  
+  
+  Would you like more information on Increased social and community participation?
+field: capacity_social_participation
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Capacity Building - Job Assistance
+subquestion: |
+  put info here
+  
+  
+  
+  
+  Would you like more information on Job Assistance?
+field: capacity_job_assistance
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Capacity Building - Improved relationships
+subquestion: |
+  put info here
+  
+  
+  
+  
+  Would you like more information on Improved relationships?
+field: capacity_relationships
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Capacity Building - Improved health and wellbeing
+subquestion: |
+  put info here
+  
+  
+  
+  
+  Would you like more information on Improved health and wellbeing?
+field: capacity_health_wellbeing
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Capacity Building - Improved learning
+subquestion: |
+  put info here
+  
+  
+  
+  
+  Would you like more information on Improved learning?
+field: capacity_learning
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Capacity Building - Improved life choices
+subquestion: |
+  put info here
+  
+  
+  
+  
+  Would you like more information on Improved life choices?
+field: capacity_life_choices
+buttons:
+  - YES
+  - NO
+---
+mandatory: true
+question: |
+  Capacity Building - Improved daily living
+subquestion: |
+  put info here
+  
+  
+  
+  
+  Would you like more information on Improved daily living?
+field: capacity_daily_living
+buttons:
+  - YES
+  - NO
+---
+# final display page with summary of information being requested
+mandatory: true
+question: Summary
+subquestion: |
+  Below is a summary of the information you have requested.
+  
+  **information goes here however we want to present it**
+  
+  Support Category|More information has been requested
+  ------------------|---------------------------------------------
+  **CORE SUPPORT**
+  Assistance with daily life| ${ core_daily_life }
+  Transport|${ core_transport}
+  Consumables|${ core_consumables }
+  Assistance with social and community participation|${ core_social_participation }
+  **CAPITAL SUPPORT**
+  Home modifications|${ capital_home }
+  Assistive Technology|${ capital_AT }
+  **CAPACITY BUILDING**
+  Coordination of supports|${ capacity_coord_supports }
+  Improved living arrangements|${ capacity_living_arrangements }
+  Increase social and community participation|${ capacity_social_participation }
+  Job Assistance|${ capacity_job_assistance }
+  Improved relationships|${ capacity_relationships }
+  Improved health and wellbeing|${ capacity_health_wellbeing }
+  Improved learning|${ capacity_learning }
+  Improved life choices|${ capacity_life_choices }
+  Improved daily living|${ capacity_daily_living }
+  
+  Please download the attached document for more information on the requested support categories and/or email a copy to yourself to refer to later.
+
+buttons:
+  - FINISHED: exit
+    url: https://www.rsb.org.au/
+  - RESTART: restart
+
+attachment:
+  name: Understanding your NDIS funding plan
+  filename: Understanding_your_NDIS_funding_plan
+  docx template file: Understanding_your_NDIS_funding_plan_v2.docx
+  valid formats:
+  - pdf
+---
